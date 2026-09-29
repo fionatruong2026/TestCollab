@@ -1,0 +1,123 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyTreeCellType, Forguncy.CustomMenu",
+        "Items": [
+          {
+            "Value": "ノード1",
+            "Text": "ノード1",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "ノード1_1",
+                "Text": "ノード1_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "ノード1_2",
+                "Text": "ノード1_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "ノード2",
+            "Text": "ノード2",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "ノード2_1",
+                "Text": "ノード2_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "ノード2_2",
+                "Text": "ノード2_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "ノード3",
+            "Text": "ノード3",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "ノード3_1",
+                "Text": "ノード3_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "ノード3_2",
+                "Text": "ノード3_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,1,13,15"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//GpoePNBKLZopvkgStePaGKg6WT2PIg3CufFAtFnG6eWZrlmo1Yrqk7sz904/sGFJ59KyK/noWuiZl2Q9yxVJHa0N7xuVz9TKwjYWt/qzy2q7q0ace+7Ksq2CTtvjRZzmow+p7hIT5J938WaJYCWR42okdNUHxMs20Kzt1D5qSAi5ZOXh2r7vWSh/5xdL3RNUJQGiv1Hbxai9n5Cxh3FMgHd3GYS4cUvapdN+KvFrxIwe/Jet30AYqRbjZsc17JhXs5spwU4nM7U6T9nl6q22LXwN/L5YXzAaFvlo+O0VVfW9I58XfUYUyC6wurKALT5yCGGf0yWCy65zFSMm/3F8wc7txYWP3Tjn98ASFMT+xCzOgqP00ctc8pT2MAgEmyEmf6AlUgNKJBmNh+gXiI0dDNAX0dDInv6YPI0a5TZApSfbIcUWHqnbJJk9d077uuF1Yndys7K6iPYPtE1C4LlONeipLC2YANfdphoIdmdbIicEPWI7M6L4ptfUgo5H3ySoy14y2zTI9d/+i9myX2zGRUPtN/WrF4G2vRQbkjYGUhO1RcqTOhlNvlhReK6i/c8YuthOO17V9vEsC/0Uw8NRZu8bJAMroEPki1B5Ph80nhSjVejWEEy56JGLnVKoCTzjEE2j7KLI3L8wUI3qN+tQGNXyeI8v9CUL52N6c15+jmX2xk6ihpdaB0UKr4r5Ta7JweRRroFSUviJ/Tl5g4Ez7JKVSPBZsuW4Pj/MxiGBCd0HYCHai413rs/zJ2zFvT37+9Hi+VXL6950bKedq8r8sbX3lpJfxVAxrqy41EZ+TkaRjdahpxh0EF/AlfQq72bWCsC80JnTM50OV4Z2SHK0N67AwDBU4EydHr5akG/GkMSv/guSbpbauHYdJAu9KYtbK6Eqcrt/9vzY88cCQJlzDg==|920
